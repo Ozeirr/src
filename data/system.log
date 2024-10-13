@@ -1,0 +1,10 @@
+2024-10-13 22:31:22,621 - INFO - Login successful.
+2024-10-13 22:50:04,566 - INFO - Login successful.
+2024-10-13 22:55:46,766 - INFO - Failed login attempt 1 for username: Super-ADmin
+2024-10-13 22:56:22,510 - INFO - Failed login attempt 2 for username: System123
+2024-10-13 22:56:28,718 - INFO - Failed login attempt 3 for username: System123
+2024-10-13 23:07:26,486 - INFO - Failed login attempt 1 for username: super_admin
+2024-10-13 23:07:34,631 - INFO - Login successful.
+2024-10-13 23:10:44,136 - INFO - Login successful.
+2024-10-13 23:12:46,370 - INFO - Login successful.
+2024-10-13 23:16:07,984 - INFO - Failed login attempt 1 for username: python -u "c:\Users\ozeir\OneDrive\Documenten\GitHub\src\um_members.py"
